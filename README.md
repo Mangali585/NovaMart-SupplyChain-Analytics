@@ -1,7 +1,7 @@
 # 📦 NovaMart Supply Chain Performance & Delivery Intelligence Dashboard
 
 <p align="center">
-  <img src="banner.png" alt="NovaMart Dashboard Banner" width="100%">
+  <img src="dashboard_mockups/banner.png" alt="NovaMart Dashboard Banner" width="100%">
 </p>
 
 <p align="center">
